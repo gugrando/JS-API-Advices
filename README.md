@@ -16,7 +16,7 @@
  <br>
  <br>
  <br>
-  <h1 align="center" > Sobre </h1>
+  <h1> Sobre: </h1>
  <p>
   Este foi um projeto especial, um dos primeiros que fiz 100% sozinho, sem curso guiando, ou tutorial, eu busquei a API e construi todo código sozinho, é um projeto super simples que podia ser feito em apenas um arquivo e sem OOP e Modulos diferentes, mas significou bastanta para mim, usei conhecimentos de OOP, Modulos, para treinar esses conhecimentos, e ES6 Moderno, foi além de tudo um projeto divertido de se fazer, enquanto codava podia ver as frases geniais e engraçadas que a API gerava.
  </p>
